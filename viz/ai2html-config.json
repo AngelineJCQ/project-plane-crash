@@ -18,6 +18,12 @@
         "family": "Open Sans",
         "weight": "400",
         "style": ""
+    },
+    {
+        "aifont": "OpenSans-Italic",
+        "family": "Open Sans",
+        "weight": "400",
+        "style": "italic"
     }
     ]
 }
